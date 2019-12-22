@@ -1,0 +1,1 @@
+  -L"D:/Program Files/mysql/mysql-8.0.18-winx64/lib"  -lmysql -lWS2_32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

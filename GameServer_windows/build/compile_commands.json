@@ -1,0 +1,77 @@
+[
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Controller\\BaseController.cpp.obj -c C:\\VS_Code\\src\\Controller\\BaseController.cpp",
+  "file": "C:/VS_Code/src/Controller/BaseController.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Controller\\GameController.cpp.obj -c C:\\VS_Code\\src\\Controller\\GameController.cpp",
+  "file": "C:/VS_Code/src/Controller/GameController.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Controller\\RoomController.cpp.obj -c C:\\VS_Code\\src\\Controller\\RoomController.cpp",
+  "file": "C:/VS_Code/src/Controller/RoomController.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Controller\\UserController.cpp.obj -c C:\\VS_Code\\src\\Controller\\UserController.cpp",
+  "file": "C:/VS_Code/src/Controller/UserController.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\DAO\\ResultDAO.cpp.obj -c C:\\VS_Code\\src\\DAO\\ResultDAO.cpp",
+  "file": "C:/VS_Code/src/DAO/ResultDAO.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\DAO\\ThreadPool.cpp.obj -c C:\\VS_Code\\src\\DAO\\ThreadPool.cpp",
+  "file": "C:/VS_Code/src/DAO/ThreadPool.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\DAO\\UserDAO.cpp.obj -c C:\\VS_Code\\src\\DAO\\UserDAO.cpp",
+  "file": "C:/VS_Code/src/DAO/UserDAO.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\DAO\\mysql_m.cpp.obj -c C:\\VS_Code\\src\\DAO\\mysql_m.cpp",
+  "file": "C:/VS_Code/src/DAO/mysql_m.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Model\\User.cpp.obj -c C:\\VS_Code\\src\\Model\\User.cpp",
+  "file": "C:/VS_Code/src/Model/User.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Servers\\Client.cpp.obj -c C:\\VS_Code\\src\\Servers\\Client.cpp",
+  "file": "C:/VS_Code/src/Servers/Client.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Servers\\Message.cpp.obj -c C:\\VS_Code\\src\\Servers\\Message.cpp",
+  "file": "C:/VS_Code/src/Servers/Message.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Servers\\Room.cpp.obj -c C:\\VS_Code\\src\\Servers\\Room.cpp",
+  "file": "C:/VS_Code/src/Servers/Room.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Servers\\Server.cpp.obj -c C:\\VS_Code\\src\\Servers\\Server.cpp",
+  "file": "C:/VS_Code/src/Servers/Server.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\Servers\\Socket.cpp.obj -c C:\\VS_Code\\src\\Servers\\Socket.cpp",
+  "file": "C:/VS_Code/src/Servers/Socket.cpp"
+},
+{
+  "directory": "C:/VS_Code/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   @CMakeFiles/main.dir/includes_CXX.rsp -g -Wall -lwsock32 -g   -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\VS_Code\\src\\main.cpp",
+  "file": "C:/VS_Code/src/main.cpp"
+}
+]
