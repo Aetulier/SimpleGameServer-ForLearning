@@ -11,7 +11,7 @@
   
   
 #### 服务端环境搭建
-linux：  
+linux、Windows：  
 需要GCC、mysql、cmake  
 编辑器使用vscode  
 mysql导入文件中备份
