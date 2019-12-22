@@ -1,0 +1,21 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile",   //一定要和Launch.json-preLaunchTask的参数一致 
+            "type": "shell",    //无需修改
+            "command": "cmake",   //这里我们使用的 g++ 命令
+            // "args": [           //这一部分是自己添加的,是给命令添加的参数
+            //                     //实际就是在终端执行(以 Main.cpp为例):
+            //                     // g++ -g Main.cpp -o Main.out
+            //                     //命令执行后,在文件空间下出现Main.out文件,这样 Launch.json文件就可以负责运行该可执行文件了
+            //     "-g",
+            //     "${file}",
+            //     "-o",
+            //     "${fileBasenameNoExtension}.out"
+            // ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Controller/BaseController.cpp.o -c /root/vscode_projects/src/Controller/BaseController.cpp",
+  "file": "/root/vscode_projects/src/Controller/BaseController.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Controller/GameController.cpp.o -c /root/vscode_projects/src/Controller/GameController.cpp",
+  "file": "/root/vscode_projects/src/Controller/GameController.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Controller/RoomController.cpp.o -c /root/vscode_projects/src/Controller/RoomController.cpp",
+  "file": "/root/vscode_projects/src/Controller/RoomController.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Controller/UserController.cpp.o -c /root/vscode_projects/src/Controller/UserController.cpp",
+  "file": "/root/vscode_projects/src/Controller/UserController.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/DAO/ResultDAO.cpp.o -c /root/vscode_projects/src/DAO/ResultDAO.cpp",
+  "file": "/root/vscode_projects/src/DAO/ResultDAO.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/DAO/ThreadPool.cpp.o -c /root/vscode_projects/src/DAO/ThreadPool.cpp",
+  "file": "/root/vscode_projects/src/DAO/ThreadPool.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/DAO/UserDAO.cpp.o -c /root/vscode_projects/src/DAO/UserDAO.cpp",
+  "file": "/root/vscode_projects/src/DAO/UserDAO.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/DAO/mysql_m.cpp.o -c /root/vscode_projects/src/DAO/mysql_m.cpp",
+  "file": "/root/vscode_projects/src/DAO/mysql_m.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Model/User.cpp.o -c /root/vscode_projects/src/Model/User.cpp",
+  "file": "/root/vscode_projects/src/Model/User.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Servers/Client.cpp.o -c /root/vscode_projects/src/Servers/Client.cpp",
+  "file": "/root/vscode_projects/src/Servers/Client.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Servers/Message.cpp.o -c /root/vscode_projects/src/Servers/Message.cpp",
+  "file": "/root/vscode_projects/src/Servers/Message.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Servers/Room.cpp.o -c /root/vscode_projects/src/Servers/Room.cpp",
+  "file": "/root/vscode_projects/src/Servers/Room.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Servers/Server.cpp.o -c /root/vscode_projects/src/Servers/Server.cpp",
+  "file": "/root/vscode_projects/src/Servers/Server.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/Servers/Socket.cpp.o -c /root/vscode_projects/src/Servers/Socket.cpp",
+  "file": "/root/vscode_projects/src/Servers/Socket.cpp"
+},
+{
+  "directory": "/root/vscode_projects/build",
+  "command": "/usr/bin/g++   -I/usr/include/mysql -I\"/root/vscode_projects/\\$$\" -I/root/vscode_projects/PROJECT_SOURCE_DIR/src/Common  -g -Wall  -g   -std=c++11 -o CMakeFiles/main.dir/src/main.cpp.o -c /root/vscode_projects/src/main.cpp",
+  "file": "/root/vscode_projects/src/main.cpp"
+}
+]
